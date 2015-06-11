@@ -1,0 +1,5 @@
+D:\Programação\visual studio 2013\Projects\CalculaProdutoDeUmaMatriz\CalculaProdutoDeUmaMatriz\bin\Release\CalculaProdutoDeUmaMatriz.exe.config
+D:\Programação\visual studio 2013\Projects\CalculaProdutoDeUmaMatriz\CalculaProdutoDeUmaMatriz\bin\Release\CalculaProdutoDeUmaMatriz.exe
+D:\Programação\visual studio 2013\Projects\CalculaProdutoDeUmaMatriz\CalculaProdutoDeUmaMatriz\bin\Release\CalculaProdutoDeUmaMatriz.pdb
+D:\Programação\visual studio 2013\Projects\CalculaProdutoDeUmaMatriz\CalculaProdutoDeUmaMatriz\obj\Release\CalculaProdutoDeUmaMatriz.exe
+D:\Programação\visual studio 2013\Projects\CalculaProdutoDeUmaMatriz\CalculaProdutoDeUmaMatriz\obj\Release\CalculaProdutoDeUmaMatriz.pdb
